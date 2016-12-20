@@ -1,10 +1,11 @@
 #!/usr/bin/env python
+import OpenSSL
+import six
+
 import argparse
 import hashlib
 import itertools
-import OpenSSL
 import os
-import six
 import sys
 import zipfile
 
