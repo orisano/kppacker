@@ -12,6 +12,7 @@ setup(
     author_email=__author_email__,
     url="https://github.com/orisano/kppacker",
     description="kintone plugin packer.",
+    py_modules=["kppacker"],
     install_requires=["pyopenssl", "six"],
     keywords="kintone",
     license=__license__,
