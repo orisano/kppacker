@@ -6,15 +6,15 @@ __author_email__ = "owan.orisano@gmail.com"
 __license__ = "MIT License"
 
 setup(
-    name="kppacker",
+    name="kptool",
     version=__version__,
     author=__author__,
     author_email=__author_email__,
-    url="https://github.com/orisano/kppacker",
-    description="kintone plugin packer.",
-    py_modules=["kppacker"],
+    url="https://github.com/orisano/kptool",
+    description="kintone plugin tool.",
+    py_modules=["kptool"],
     install_requires=["pyopenssl", "six"],
     keywords="kintone",
     license=__license__,
-    entry_points={"console_scripts": ["kppacker = kppacker:main"]},
+    entry_points={"console_scripts": ["kptool = kptool:main"]},
 )
