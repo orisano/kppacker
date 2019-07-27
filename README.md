@@ -1,7 +1,7 @@
 # kptool 
 kintone plugin tool 
 
-## installation
+## Installation
 ```bash
 pip install git+https://github.com/orisano/kptool
 ```
@@ -37,3 +37,9 @@ $ ls plugins
 vote.ahmnkcmjfamplmjlkkkgkbobffjjfnpp.pem  vote.zip
 
 ```
+
+### Author
+Nao YONASHIRO (@orisano)
+
+### License
+MIT
