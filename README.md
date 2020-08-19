@@ -39,7 +39,7 @@ vote.ahmnkcmjfamplmjlkkkgkbobffjjfnpp.pem  vote.zip
 ```
 
 ## Author
-Nao YONASHIRO (@orisano)
+Nao Yonashiro (@orisano)
 
 ## License
 MIT
